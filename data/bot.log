@@ -1,0 +1,185 @@
+22:32:34 | INFO    | bot       | Временных файлов очищено: 0
+22:32:34 | WARNING | bot       | SSL api.telegram.org не проходит проверку — похоже, трафик перехватывают
+22:32:34 | WARNING | bot       | Повторяю подключение без проверки сертификата (задай TELEGRAM_CA_BUNDLE, чтобы вернуть проверку)
+22:32:34 | WARNING | bot.tg    | Проверка SSL-сертификата для api.telegram.org ОТКЛЮЧЕНА
+22:32:35 | INFO    | bot       | Бот запущен как @LitrHelperBot (id 8748151042) | ОЗУ: 36 МБ
+22:32:35 | INFO    | bot       | Жду апдейтов…
+22:38:46 | INFO    | bot       | скачивание: https://vt.tiktok.com/ZSb5HpoQo/
+22:38:53 | INFO    | bot       | отправлено по прямой ссылке (video): https://www.tikwm.com/video/media/hdplay/7658624725060455697.mp4
+22:39:32 | INFO    | bot.soundcloud | SoundCloud client_id получен
+22:39:32 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'убили негра'
+22:39:32 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'убили негрпа'
+22:39:37 | INFO    | bot       | скачивание: https://soundcloud.com/cxxperman/nrk5n1ldgmzu
+22:39:40 | INFO    | bot       | отправлено по прямой ссылке (audio): https://cf-media.sndcdn.com/s9KBLvMpTz3d.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJl
+22:40:40 | INFO    | bot       | скачивание: https://vt.tiktok.com/ZSb5HpoQo/
+22:40:42 | INFO    | bot       | отправлено по прямой ссылке (video): https://www.tikwm.com/video/media/hdplay/7658624725060455697.mp4
+22:40:56 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'L'
+22:40:57 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'La'
+22:40:59 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazz'
+22:41:00 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2'
+22:41:02 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wicw'
+22:41:03 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wic'
+22:41:04 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wice'
+22:41:05 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wice с'
+22:41:09 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'сепия с'
+22:41:10 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'сепия сетчатки'
+22:41:16 | INFO    | bot       | скачивание: https://soundcloud.com/lazzy2wice-music/sepiya-sechatki
+22:41:18 | INFO    | bot       | отправлено по прямой ссылке (audio): https://cf-preview-media.sndcdn.com/preview/0/30/WpNC04C9iI4N.128.mp3?Policy=eyJ
+22:41:35 | INFO    | bot.soundcloud | SoundCloud API вернул 0 треков по запросу 'дфяян2'
+22:41:36 | INFO    | bot.soundcloud | SoundCloud API вернул 0 треков по запросу 'дфяян2цшсу'
+22:41:37 | INFO    | bot.soundcloud | SoundCloud API вернул 0 треков по запросу 'дфяян2цшс'
+22:41:42 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'lazzy'
+22:41:44 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'lazzy2wice'
+22:41:47 | INFO    | bot       | скачивание: https://soundcloud.com/lazzy2wice/alarm-red-light
+22:41:50 | INFO    | bot       | отправлено по прямой ссылке (audio): https://cf-media.sndcdn.com/U29t4kZTXkaQ.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJl
+22:51:29 | INFO    | bot       | отправлено по прямой ссылке (video): https://tikwm.com/x.mp4
+22:51:29 | INFO    | bot       | отправлено по file_id (audio): {'title': 'Песня', 'performer': 'Артист'}
+22:51:55 | INFO    | bot       | отправлено по прямой ссылке (video): https://tikwm.com/x.mp4
+22:51:55 | INFO    | bot       | отправлено по file_id (audio): {'title': 'Песня', 'performer': 'Артист'}
+22:52:26 | INFO    | bot       | отправлено по прямой ссылке (video): https://tikwm.com/x.mp4
+22:52:26 | INFO    | bot       | отправлено по file_id (audio): {'title': 'Песня', 'performer': 'Артист'}
+22:52:26 | WARNING | bot       | ссылка не подошла (wrong file identifier): https://tikwm.com/x.mp4
+22:52:26 | INFO    | bot       | отправлено по file_id (video): 
+22:52:26 | WARNING | bot       | file_id не подошёл: editMessageMedia: [400] file not found
+22:52:26 | WARNING | bot       | загрузка в личку не удалась (audio): chat not found
+22:52:26 | WARNING | bot       | загрузка в личку не удалась (document): chat not found
+22:52:26 | WARNING | bot       | и в личку отправить не вышло: chat not found
+22:54:56 | INFO    | bot       | Временных файлов очищено: 1
+22:54:56 | WARNING | bot       | SSL api.telegram.org не проходит проверку — похоже, трафик перехватывают
+22:54:56 | WARNING | bot       | Повторяю подключение без проверки сертификата (задай TELEGRAM_CA_BUNDLE, чтобы вернуть проверку)
+22:54:56 | WARNING | bot.tg    | Проверка SSL-сертификата для api.telegram.org ОТКЛЮЧЕНА
+22:54:56 | INFO    | bot       | Бот запущен как @LitrHelperBot (id 8748151042) | ОЗУ: 36 МБ
+22:54:56 | INFO    | bot       | Жду апдейтов…
+22:55:34 | INFO    | bot       | Временных файлов очищено: 0
+22:55:34 | WARNING | bot       | SSL api.telegram.org не проходит проверку — похоже, трафик перехватывают
+22:55:34 | WARNING | bot       | Повторяю подключение без проверки сертификата (задай TELEGRAM_CA_BUNDLE, чтобы вернуть проверку)
+22:55:34 | WARNING | bot.tg    | Проверка SSL-сертификата для api.telegram.org ОТКЛЮЧЕНА
+22:55:34 | INFO    | bot       | Бот запущен как @LitrHelperBot (id 8748151042) | ОЗУ: 36 МБ
+22:55:34 | INFO    | bot       | Жду апдейтов…
+22:58:50 | INFO    | bot       | Временных файлов очищено: 0
+22:58:51 | WARNING | bot       | SSL api.telegram.org не проходит проверку — похоже, трафик перехватывают
+22:58:51 | WARNING | bot       | Повторяю подключение без проверки сертификата (задай TELEGRAM_CA_BUNDLE, чтобы вернуть проверку)
+22:58:51 | WARNING | bot.tg    | Проверка SSL-сертификата для api.telegram.org ОТКЛЮЧЕНА
+22:58:51 | INFO    | bot       | Бот запущен как @LitrHelperBot (id 8748151042) | ОЗУ: 36 МБ
+22:58:51 | INFO    | bot       | Жду апдейтов…
+22:58:51 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:01 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:11 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:20 | INFO    | bot       | скачивание: https://vt.tiktok.com/ZSb5HpoQo/
+22:59:21 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:22 | INFO    | bot       | отправлено по прямой ссылке (video): https://www.tikwm.com/video/media/hdplay/7658624725060455697.mp4
+22:59:31 | INFO    | bot.soundcloud | SoundCloud client_id получен
+22:59:31 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'д'
+22:59:31 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:32 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'La'
+22:59:32 | INFO    | bot.soundcloud | SoundCloud client_id получен
+22:59:33 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazz'
+22:59:33 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy'
+22:59:34 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2'
+22:59:34 | INFO    | bot.soundcloud | SoundCloud API вернул 2 треков по запросу 'Lazzy2wi'
+22:59:35 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wicw'
+22:59:36 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wice'
+22:59:41 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wice -'
+22:59:41 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:51 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+22:59:52 | INFO    | bot       | скачивание: https://soundcloud.com/lazzy2wice/every-time-prod-lazzy2wice
+22:59:59 | INFO    | bot       | личный чат 355362626 запомнил пользователь 355362626
+23:00:01 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:00:02 | INFO    | bot       | личный чат 6313271684 запомнил пользователь 6313271684
+23:00:09 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazz'
+23:00:10 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy'
+23:00:10 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2'
+23:00:11 | INFO    | bot.soundcloud | SoundCloud API вернул 0 треков по запросу 'Lazzy2eicw'
+23:00:12 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:00:14 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wicw'
+23:00:15 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'Lazzy2wice'
+23:00:19 | INFO    | bot       | скачивание: https://soundcloud.com/xrustyashhij-baget/sepiya-setchatki
+23:00:21 | INFO    | bot.soundcloud | скачан трек sc_babec0415ec4.mp3 (2.2 MB)
+23:00:22 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:00:25 | INFO    | bot       | отправлено по file_id (audio): {'title': 'сепия сетчатки - LAZZY2WICE', 'performer': 'Lazzy2wice re-uploading'}
+23:00:32 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:00:42 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:00:52 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:02 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:13 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:23 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:33 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:43 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:01:53 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:03 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:14 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:24 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:34 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:44 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:02:54 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:04 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:14 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:24 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:29 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'o'
+23:03:30 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'onda'
+23:03:32 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'onda an'
+23:03:33 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'onda andar'
+23:03:34 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:44 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:03:54 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:05 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:15 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:17 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'onda an'
+23:04:18 | INFO    | bot.soundcloud | SoundCloud API вернул 8 треков по запросу 'onda andar'
+23:04:21 | INFO    | bot       | скачивание: https://soundcloud.com/onda_andar/one-way-ticket-1
+23:04:23 | INFO    | bot.soundcloud | скачан трек sc_57f93c3a3f7b.mp3 (2.1 MB)
+23:04:25 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:27 | INFO    | bot       | отправлено по file_id (audio): {'title': 'one way ticket', 'performer': 'ONDA ANDAR'}
+23:04:35 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:45 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:04:55 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:05 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:15 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:25 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:35 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:45 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:05:55 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:05 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:15 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:25 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:35 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:46 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:06:56 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:06 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:16 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:26 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:36 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:46 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:07:56 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:06 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:16 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:26 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:36 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:46 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:08:56 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:06 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:16 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:26 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:37 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:47 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:09:57 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:07 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:17 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:27 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:37 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:47 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:10:57 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:11:07 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:11:18 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:11:28 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:11:38 | WARNING | bot       | getUpdates: getUpdates: [0] сеть: [WinError 64] Указанное сетевое имя более недоступно — повтор через 5 сек
+23:11:43 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:11:53 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:03 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:13 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:23 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:33 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:43 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:12:53 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:13:03 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
+23:13:13 | WARNING | bot       | Бот уже запущен в другом процессе — подожду 10 секунд
